@@ -1,2 +1,2 @@
-const webhook = new Discord.Webhook("716110290097274890 "aXRnMJj7NYpjzG5nUZv9DfVzCWWWXJfo3sRtNlRe0zoMDqdtS0AEZ1QeQq47F-dY4Uyn");
-webhook.send("а что такое?")
+let channel = message.channel;
+channel.send("тест");
